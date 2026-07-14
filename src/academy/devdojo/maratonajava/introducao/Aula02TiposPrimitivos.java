@@ -9,8 +9,8 @@ public class Aula02TiposPrimitivos {
         float salarioFloat = 2500.0F;
         byte idadeByte = 127;
         short idadeShort = 32767;
-        boolean verdadeiro = true;
-        boolean falso = false;
+        boolean verdadeiro = false;
+        boolean falso = true;
         char caractere = 'F';
 
         System.out.println("Idade: " + idade);
