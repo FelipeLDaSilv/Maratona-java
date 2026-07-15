@@ -3,6 +3,7 @@ package academy.devdojo.maratonajava.introducao;
 public class Aula02TiposPrimitivos {
     public static void main(String[] args) {
         // int, double, float, char, byte, short, long, boolean
+        // Aula 02 - Tipos Primitivos
         int idade = 10;
         long numeroGrande = 10000000000L;
         double salarioDouble = 2000.0D;
